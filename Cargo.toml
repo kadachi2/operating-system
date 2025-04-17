@@ -5,5 +5,5 @@ edition = "2021"
 
 [workspace]
 resolver = "2"
-members = ["chapter1", "chapter2", "chapter3"]
+members = ["chapter1", "chapter2", "chapter3", "chapter4"]
 
